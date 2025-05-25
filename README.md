@@ -32,7 +32,7 @@ I’m a passionate **Fullstack & Mobile Developer** skilled in creating clean, m
 ----
 ### 🧩 Featured Projects
 
-- 🛒 [**PlantsHome**](#): A modern online store using Angular + Tailwind , Nodejs+MongoDB for backend and paymob for payment.
+- 🛒 [**PlantsHome**](#https://plant-nursery-ecommerce-366o.vercel.app/): A modern online store using Angular + Tailwind , Nodejs+MongoDB for backend and paymob for payment.
 - 📷 [**Movie App**](#): React Native app with fetched movie data.
 - 🎙️ [**AuraSpeak Innovator**](#): An AI-powered app using flutter + flask for the visually impaired (OCR, color detection, image captioning).
 
