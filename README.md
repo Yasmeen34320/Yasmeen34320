@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F78C6C&width=435&lines=Hi!+I'm+Yasmeen+Alaa;I+love+building+modern;web+%26+mobile+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F78C6C&width=600&lines=Hi!+I'm+Yasmeen+Alaa;FullStack+%26+Mobile+Developer" alt="Typing SVG" />
   <br />
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </div>
@@ -32,9 +32,9 @@ I’m a passionate **Fullstack & Mobile Developer** skilled in creating clean, m
 ----
 ### 🧩 Featured Projects
 
-- 🛒 [**PlantsHome**](#https://plant-nursery-ecommerce-366o.vercel.app/): A modern online store using Angular + Tailwind , Nodejs+MongoDB for backend and paymob for payment.
-- 📷 [**Movie App**](#): React Native app with fetched movie data.
-- 🎙️ [**AuraSpeak Innovator**](#): An AI-powered app using flutter + flask for the visually impaired (OCR, color detection, image captioning).
+- 🛒 [**PlantsHome**](https://plant-nursery-ecommerce-366o.vercel.app/): A modern online store using Angular + Tailwind , Nodejs+MongoDB for backend and paymob for payment.
+- 📷 [**Movie App**](https://github.com/Yasmeen34320/CinemaCompany): React Native app with fetched movie data.
+- 🎙️ [**AuraSpeak Innovator**](https://github.com/Yasmeen34320/AureSpeak_Innovator): An AI-powered app using flutter + flask for the visually impaired (OCR, color detection, image captioning).
 
 
 ---
