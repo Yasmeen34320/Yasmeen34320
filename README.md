@@ -21,7 +21,7 @@ I’m a passionate **Fullstack & Mobile Developer** skilled in creating clean, m
 ### 🌐 Connect with Me
 
 <div align="center">
-  <a href="linkedin.com/in/yasmeen-alaa-taha/" target="_blank">
+  <a href="https://www.linkedin.com/in/yasmeen-alaa-taha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:y.alaa9.2001@gmail.com">
